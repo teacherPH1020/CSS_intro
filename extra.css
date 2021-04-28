@@ -1,8 +1,9 @@
 /*addon to main style*/
-.my_red {
+.my_red:hover {
     color: red;
 }
 
 .x {
     cursor: crosshair;
 }
+
