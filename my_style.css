@@ -1,0 +1,19 @@
+/*
+My CSS style for index.html
+*/
+@import url("extra.css");
+p {
+    color: magenta;
+    font: bold;
+    font-size: 24px;
+}
+
+p:hover {
+    background-color: white;
+}
+
+
+p.my_red {
+    font-style: italic;
+    color: pink;
+}
