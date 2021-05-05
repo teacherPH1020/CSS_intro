@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:models" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2da3b1e-76cd-4a41-8d81-a892d517288a" name="Default Changelist" comment="стиль таблицы">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="development" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rnxzpdVu5QcmlMhUyyryGyIDkz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2da3b1e-76cd-4a41-8d81-a892d517288a" name="Default Changelist" comment="" />
+      <created>1619625919573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619625919573</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1619631002006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619631002006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Next">
+      <created>1619633218672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619633218672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <created>1619633362026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619633362026</updated>
+    </task>
+    <task id="LOCAL-00004" summary="новая страничка">
+      <created>1619634451509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619634451509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="стиль таблицы">
+      <created>1619635102031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619635102031</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="models" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <MESSAGE value="Next" />
+    <MESSAGE value="3" />
+    <MESSAGE value="новая страничка" />
+    <MESSAGE value="стиль таблицы" />
+    <option name="LAST_COMMIT_MESSAGE" value="стиль таблицы" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="237" y="28" width="1683" height="983" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619633196734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="237" y="28" width="1683" height="983" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619633196734" />
+    <state x="329" y="34" key="FileChooserDialogImpl" timestamp="1620060095833">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="329" y="34" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1620060095833" />
+    <state x="614" y="0" key="RollbackChangesDialog" timestamp="1619631849035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619631849035" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1620060034314">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1620060034314" />
+    <state x="152" y="0" key="Vcs.Push.Dialog.v2" timestamp="1619635140459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="152" y="0" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619635140459" />
+    <state x="606" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619634954867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619634954867" />
+    <state x="603" y="257" key="git4idea.ui.GitTagDialog" timestamp="1619633176552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="257" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619633176552" />
+  </component>
+</project>
